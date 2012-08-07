@@ -1,11 +1,11 @@
-# revision 25889
+# revision 26700
 # category Package
 # catalog-ctan /macros/latex/contrib/chronosys
-# catalog-date 2012-04-08 19:39:35 +0200
+# catalog-date 2012-05-28 13:36:39 +0200
 # catalog-license lppl1.3
-# catalog-version 1.15
+# catalog-version 1.2
 Name:		texlive-chronosys
-Version:	1.15
+Version:	1.20
 Release:	1
 Summary:	Drawing time-line diagrams
 Group:		Publishing
