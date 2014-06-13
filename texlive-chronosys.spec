@@ -6,7 +6,7 @@
 # catalog-version 1.2
 Name:		texlive-chronosys
 Version:	1.20
-Release:	5
+Release:	6
 Summary:	Drawing time-line diagrams
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/chronosys
